@@ -1,0 +1,6 @@
+{
+  "name": "BeatBuddy Studio - Rhythm & Drum Sequencer",
+  "description": "Interactive Brazilian and drum rhythm sequencer with multi-track editing, custom audio sample manager, pedal footswitch control, and song structure arrangement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
